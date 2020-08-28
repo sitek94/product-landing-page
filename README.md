@@ -1,6 +1,6 @@
 # Diagon Alley Product Landing Page
 
-Checkout the project here: https://sitek94.github.io/product-landing-page/
+Check out the project here: https://sitek94.github.io/product-landing-page/
 
 Product landing page built for fake "Diagon Alley" brand to practice creating responsive layouts.
 
